@@ -3,6 +3,5 @@
 "description": "The aim of this pool is to be able to create a system where technology can be shared around the globe and help people to achieve their projects.",
 "ticker": "T2H",
 "homepage": "https://www.techs2help.ch",
-"extended": "https://raw.githubusercontent.com/Techs2Help/T2H/main/pmd-extended.json",
-"verification":"33492656617e2abfdc"
+"extended": "https://raw.githubusercontent.com/Techs2Help/T2H/main/pmd-extended.json"
 }
