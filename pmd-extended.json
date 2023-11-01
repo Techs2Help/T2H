@@ -13,16 +13,11 @@
             "name": "Techs2Help"
         },
         "about": {
-            "me": "IT Self-paced Student, currently studying for different certifications between CyberSecurity, Cloud and Networking, 10 years experience in the field. Trying to help the world to grow in a good way and give a better future to everyone.",
-            "server": "Nodes are hosted on bare-metal servers on a high available network environment. This was designed to achieve high-availability and to be scalable."
+            "company": "Techs2help is dedicated to providing an exceptional Cardano staking experience, backed by a commitment to security, reliability, transparency, fairness and experience. Our company's mission is to empower ADA holders to earn rewards while actively participating in the growth and success of the Cardano ecosystem. With us, you can be confident to stake your ADAs",
+	    "server": "Our infrastructure is designed for maximum uptime, ensuring you earn rewards consistently. We utilize redundant servers and continuous monitoring to minimize any potential downtime."
         }
     },
     "my-pool-ids": {
         "0": "15b80fb09b9541a2786a7dda7c516178f9acef18ef9c98d7146f5d2e"
-    },
-    "when-satured-then-recommend": {
-        "0": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1",
-        "1": "2ce9bfc4e0a732d21ec8739cbfc3b10957b4e3297fd320d556f48ada",
-        "2": "32f6df36b4625d51971dedb0cabd20a6c8577165d5f15530594dbc6b"
     }
 }
